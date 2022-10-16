@@ -1,0 +1,2 @@
+# PwshTroll
+Pwsh Troll Script
